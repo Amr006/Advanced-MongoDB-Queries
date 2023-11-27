@@ -40,4 +40,9 @@ const data = await User.aggregate([
 
 /*
 this query to get all events that the user following and filter them by month 
+and get the number the total user following events 
 */
+
+/////////////////////////////////////////////////////////////////////////////////////////
+
+
